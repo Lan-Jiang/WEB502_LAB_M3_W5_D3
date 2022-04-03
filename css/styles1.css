@@ -79,10 +79,6 @@ p {
     /* object-fit: fill; */
 }
 
-.card-img-top {
-    object-fit: fill;
-}
-
 .card-body {
     /* justify-content: center;
     align-items: center; */
